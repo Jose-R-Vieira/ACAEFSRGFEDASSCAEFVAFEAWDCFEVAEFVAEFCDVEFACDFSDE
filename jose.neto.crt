@@ -1,0 +1,64 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            5a:a3:1d:4d:d9:f3:d7:14:cd:1e:67:28:b7:d7:2f:fa
+        Signature Algorithm: ecdsa-with-SHA512
+        Issuer: CN=LECOM CA TERCEIROS
+        Validity
+            Not Before: Sep 13 19:24:06 2024 GMT
+            Not After : Mar 14 19:24:06 2025 GMT
+        Subject: CN=jose.neto
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (521 bit)
+                pub:
+                    04:01:ee:34:45:b5:15:10:e9:33:c8:56:ac:9e:eb:
+                    d1:4e:e6:0b:62:47:57:bb:82:00:da:53:db:80:7f:
+                    95:3e:23:39:3e:69:19:a2:4a:c8:2d:ee:22:4b:4c:
+                    5a:3d:56:2a:c8:4b:1b:7b:95:95:02:6a:77:a5:4b:
+                    90:6b:65:93:fc:f1:70:01:77:6f:80:28:16:7e:60:
+                    50:46:e2:21:d3:0a:22:2c:f2:c4:92:51:fa:d6:17:
+                    89:93:9a:88:16:dd:90:92:41:04:31:03:d8:27:64:
+                    88:6d:e3:c5:bb:3f:29:2d:10:c0:26:13:35:ea:a4:
+                    5e:ec:1f:a0:54:2d:cc:ed:49:46:d3:36:bc
+                ASN1 OID: secp521r1
+                NIST CURVE: P-521
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                59:79:12:77:8F:0C:3C:54:FC:63:45:F0:AD:F0:61:A3:FA:66:9C:56
+            X509v3 Authority Key Identifier: 
+                keyid:CB:2F:45:8B:16:F0:EA:DA:A6:34:87:82:14:B7:51:43:C2:79:91:68
+                DirName:/CN=LECOM CA TERCEIROS
+                serial:27:E6:90:CD:CA:7A:3B:2B:D4:14:D3:C8:54:72:2A:5A:E7:45:F5:C7
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: ecdsa-with-SHA512
+         30:81:88:02:42:01:c0:18:75:96:2b:b6:b5:c3:75:60:80:dd:
+         af:54:26:d0:4a:f5:36:13:35:df:2f:db:4e:28:ca:c6:be:de:
+         ec:13:9f:45:f1:25:6f:13:86:39:c9:c0:68:a8:dd:2c:42:50:
+         04:76:d1:0a:78:8d:5c:f8:98:0d:e9:1b:e9:58:76:b6:95:02:
+         42:01:be:a3:21:81:0a:75:61:62:5a:26:55:bc:a9:75:4a:77:
+         f6:59:26:31:9f:33:b4:c2:30:45:4a:2b:27:49:c0:1c:e4:45:
+         f1:8d:21:cc:c3:cd:ed:e9:a6:34:c4:8f:57:5d:af:eb:1a:2b:
+         7f:23:e7:91:c5:ba:2e:14:05:65:61:bb:74
+-----BEGIN CERTIFICATE-----
+MIICYTCCAcKgAwIBAgIQWqMdTdnz1xTNHmcot9cv+jAKBggqhkjOPQQDBDAdMRsw
+GQYDVQQDDBJMRUNPTSBDQSBURVJDRUlST1MwHhcNMjQwOTEzMTkyNDA2WhcNMjUw
+MzE0MTkyNDA2WjAUMRIwEAYDVQQDDAlqb3NlLm5ldG8wgZswEAYHKoZIzj0CAQYF
+K4EEACMDgYYABAHuNEW1FRDpM8hWrJ7r0U7mC2JHV7uCANpT24B/lT4jOT5pGaJK
+yC3uIktMWj1WKshLG3uVlQJqd6VLkGtlk/zxcAF3b4AoFn5gUEbiIdMKIizyxJJR
++tYXiZOaiBbdkJJBBDED2CdkiG3jxbs/KS0QwCYTNeqkXuwfoFQtzO1JRtM2vKOB
+qTCBpjAJBgNVHRMEAjAAMB0GA1UdDgQWBBRZeRJ3jww8VPxjRfCt8GGj+macVjBY
+BgNVHSMEUTBPgBTLL0WLFvDq2qY0h4IUt1FDwnmRaKEhpB8wHTEbMBkGA1UEAwwS
+TEVDT00gQ0EgVEVSQ0VJUk9TghQn5pDNyno7K9QU08hUcipa50X1xzATBgNVHSUE
+DDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwCgYIKoZIzj0EAwQDgYwAMIGIAkIB
+wBh1liu2tcN1YIDdr1Qm0Er1NhM13y/bTijKxr7e7BOfRfElbxOGOcnAaKjdLEJQ
+BHbRCniNXPiYDekb6Vh2tpUCQgG+oyGBCnVhYlomVbypdUp39lkmMZ8ztMIwRUor
+J0nAHORF8Y0hzMPN7emmNMSPV12v6xorfyPnkcW6LhQFZWG7dA==
+-----END CERTIFICATE-----
